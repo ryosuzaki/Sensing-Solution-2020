@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T01:53:03.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EUZE26ivssB5ZcZLSYqu" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T02:16:41.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="EC0VP_UoGuLMSmRrOz_S" version="20.5.1" type="github">
   <diagram id="u93mlC56obUH3pNXRDEQ" name="ページ1">
     <mxGraphModel dx="650" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="LFyK3puGttuThlZaRj4D-32" value="接触点から&lt;br&gt;描写を再現" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="310.86" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LFyK3puGttuThlZaRj4D-34" value="PC" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
+        <mxCell id="LFyK3puGttuThlZaRj4D-34" value="&lt;font color=&quot;#000000&quot;&gt;PC&lt;/font&gt;" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.pc;" parent="1" vertex="1">
           <mxGeometry x="325" y="350.43" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LFyK3puGttuThlZaRj4D-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="LFyK3puGttuThlZaRj4D-34" target="LFyK3puGttuThlZaRj4D-32" edge="1">
