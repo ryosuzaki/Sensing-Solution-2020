@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-29T03:37:27.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vIeEMWAYOD92A-BalFub" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-29T06:09:25.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="wrvM-XqhhIXr0pCpJi4b" version="20.5.1" type="github">
   <diagram id="JXTL6XeUH5rPoszkFfFl" name="ページ1">
     <mxGraphModel dx="538" dy="334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -54,7 +54,7 @@
         <mxCell id="-qJaaGfu7RgQP4v72Rcq-20" value="TFT液晶ディスプレイ" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://akizukidenshi.com/img/goods/L/M-16265.jpg;clipPath=inset(11.78% 5.67% 9.56% 7%);" vertex="1" parent="1">
           <mxGeometry x="537.5" y="346.72" width="85" height="57.42" as="geometry" />
         </mxCell>
-        <mxCell id="-qJaaGfu7RgQP4v72Rcq-31" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;画像データ&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="-qJaaGfu7RgQP4v72Rcq-26" target="-qJaaGfu7RgQP4v72Rcq-14">
+        <mxCell id="-qJaaGfu7RgQP4v72Rcq-31" value="ストリーミング" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;labelBackgroundColor=none;" edge="1" parent="1" source="-qJaaGfu7RgQP4v72Rcq-26" target="-qJaaGfu7RgQP4v72Rcq-14">
           <mxGeometry x="0.3906" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
